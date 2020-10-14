@@ -46,6 +46,7 @@ URL:            http://themeforest.net/user/themepresss
 	Fonts
 ----------------------------*/
 @import url('https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700|Great+Vibes');
+@import url('https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700|Charm');
 /*--------------------------------------------------------------
 #0.1    Theme Reset Style
 --------------------------------------------------------------*/
@@ -359,7 +360,7 @@ button:focus {
   text-align: center;
   margin-bottom: 70px;
   position: relative;
-  font-family: 'Great Vibes', cursive;
+  font-family: 'Charm', cursive;
 }
 
 .section-title:before {
@@ -1710,7 +1711,7 @@ div#preloader {
   font-size: 4.5rem;
   font-weight: bold;
   color: #fff;
-  font-family: 'Great Vibes', cursive;
+  font-family: 'Charm', cursive;
 }
 
 @media (max-width: 991px) {
@@ -1846,13 +1847,13 @@ div#preloader {
 
 .site-footer h2 {
   font-size: 60px;
-  font-size: 3.75rem;
+  font-size: 3.1rem;
   color: #eae8e8;
   margin: 0 0 0.3em;
   display: inline-block;
   position: relative;
   z-index: 2;
-  font-family: 'Great Vibes', cursive;
+  font-family: 'Charm', cursive;
 }
 
 @media (max-width: 767px) {
@@ -2071,7 +2072,7 @@ div#preloader {
     font-size: 40px;
     color: #444;
     font-weight: 700;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Charm', cursive;
     text-transform: capitalize;
 }
 
@@ -2136,7 +2137,7 @@ couple-area end
 }
 
 .count-down-section h2 {
-    font-family: "Great Vibes", cursive;
+    font-family: "Charm", cursive;
     font-size: 60px;
     color: #fff;
     margin: 0;
@@ -2220,7 +2221,7 @@ couple-area end
     font-size: 60px;
     font-weight: 600;
     line-height: 1em;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Charm', cursive;
 }
 
 @media (max-width: 1199px) {
@@ -2377,7 +2378,7 @@ couple-area end
   color: #444;
   margin: 0 0 0.5em;
   text-transform: capitalize;
-  font-family: 'Great Vibes', cursive;
+  font-family: 'Charm', cursive;
 }
 
 @media (max-width: 991px) {
@@ -2510,7 +2511,7 @@ animation: spineer 2s infinite;
 .cta-content h2 {
     font-size: 55px;
     color: #fff;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Charm', cursive;
 }
 
 .cta-content p {
@@ -2769,7 +2770,7 @@ animation: spineer 2s infinite;
     display: inline-block;
     margin-bottom: 0;
     font-size: 40px;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Charm', cursive;
 }
 /*--------------------------------------------------------------
 1.2 gallery-section
