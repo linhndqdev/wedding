@@ -2553,17 +2553,17 @@ animation: spineer 2s infinite;
   display: inline-block;
 }
 .nav-tabs>.event-content>a {
-    display: block;
-    width: 100px;
+   display: block;
+    width: 170px;
     height: 100px;
     line-height: 50px;
     text-align: center;
     font-size: 16px;
     margin-bottom: 20px;
-    color:#ed8fab;
+    color: #ed8fab;
     font-weight: 600;
     transition: all .3s;
-    margin-right: 50px;
+    margin-right: 30px;
     background: transparent;
     border: 10px solid rgba(237,143,171,.5);
     border-top-left-radius: 20px;
