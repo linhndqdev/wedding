@@ -1795,7 +1795,7 @@ div#preloader {
 #0.5	footer
 --------------------------------------------------------------*/
 .site-footer {
-  background: url("../images/footer-bg.jpg") center center/cover no-repeat local;
+  background: url("../images/wedding/1920x688/1.jpg") center center/cover no-repeat local;
   text-align: center;
   padding: 235px 0 250px;
   position: relative;
@@ -2111,7 +2111,7 @@ couple-area end
 =============================*/
 
 .count-down-area {
-    background: url(../images/counter/1.jpg) no-repeat center center / cover;
+    background: url(../images/wedding/1920x1000/4.jpg) no-repeat center center / cover;
     background-attachment: fixed;
     position: relative;
 }
@@ -2487,7 +2487,7 @@ animation: spineer 2s infinite;
 =================================*/
 
 .cta-area {
-    background: url(../images/cta/img-1.jpg) no-repeat center center / cover;
+    background: url(../images/wedding/1920x1000/5.jpg) no-repeat center center / cover;
     position: relative;
     background-attachment: fixed;
 }
