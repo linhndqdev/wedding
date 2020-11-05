@@ -1517,6 +1517,12 @@ div#preloader {
   }
 }
 
+@media (max-width: 480px) {
+  .container-welcome {
+    display: none;
+  }
+}
+
 .hero-slider .swiper-slide {
   position: relative;
   overflow: hidden;
