@@ -262,20 +262,20 @@
     /*------------------------------------------
         = ACTIVE POPUP IMAGE
     -------------------------------------------*/
-    if ($(".popup-image").length) {
-        $('.popup-image').magnificPopup({
-            type: 'image',
-            zoom: {
-                enabled: true,
+    // if ($(".popup-image").length) {
+    //     $('.popup-image').magnificPopup({
+    //         type: 'image',
+    //         zoom: {
+    //             enabled: true,
 
-                duration: 300,
-                easing: 'ease-in-out',
-                opener: function(openerElement) {
-                    return openerElement.is('img') ? openerElement : openerElement.find('img');
-                }
-            }
-        });
-    }
+    //             duration: 300,
+    //             easing: 'ease-in-out',
+    //             opener: function(openerElement) {
+    //                 return openerElement.is('img') ? openerElement : openerElement.find('img');
+    //             }
+    //         }
+    //     });
+    // }
 
 
     /*------------------------------------------
