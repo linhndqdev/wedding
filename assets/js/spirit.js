@@ -17,7 +17,7 @@
         canvas = document.getElementById('spirit-canvas');
         canvas.width = width;
         canvas.height = height;
-        ctx = canvas.getContext('2d');
+        ctx = canvas.getContext('3d');
 
         // create particles
         circles = [];
